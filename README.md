@@ -6,7 +6,7 @@ Hi there I'm Peter, Thanks for visiting my Github profile. I'm a Salesforce deve
 
 - 📝 I regularly write articles on [website](https://dyncan.com)
 
-- 💬 Ask me about: **Salesforce platform features, JavaScript**
+- 💬 Ask me about: **Salesforce, JavaScript**
 
 - 📫 How to reach me: **Drop me a message here or contact me by [email](mailto:imdongyannan@gmail.com)**
 
