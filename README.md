@@ -4,7 +4,7 @@ Hi there I'm Peter, Thanks for visiting my Github profile. I'm a Salesforce deve
 
 - 🌱 I'm currently learning **Node.js, React.js, Golang**
 
-- 📝 I regularly write articles on [dyncan.com](dyncan.com)
+- 📝 I regularly write articles on [website](https://dyncan.com)
 
 - 💬 Ask me about: **Salesforce platform features, JavaScript**
 
