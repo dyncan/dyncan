@@ -2,7 +2,7 @@ Hi there I'm Peter, Thanks for visiting my Github profile. I'm a Salesforce deve
 
 - 🤔  I'm currently looking for a job as a Salesforce Developer.
 
-- 🌱 I'm currently learning **Node.js, React.js, Golang**
+- 🌱 I'm currently learning **Golang**
 
 - 📝 I regularly write articles on [website](https://dyncan.com)
 
