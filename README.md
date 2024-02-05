@@ -1,4 +1,4 @@
-Hi there I'm Peter, Thanks for visiting my Github profile. I'm a Salesforce developer and Golang/JavaScript enthusiast.
+Hi there I'm Peter, Thanks for visiting my GitHub profile. I specialize in Salesforce development and have a keen interest in Golang and JavaScript.
 
 - 🤔  I'm currently looking for a job as a Salesforce Developer.
 
