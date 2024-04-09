@@ -6,7 +6,7 @@ Hi there, I'm Peter, a passionate Salesforce engineer from China. i take great c
 
 - 💬 Ask me about: **Salesforce, JavaScript**
 
-- 📫 How to reach me: **Drop me a message here or contact me by [email](mailto:hi@dyncan.com)**
+- 📫 How to reach me: **Drop me a message here or contact me by [email](mailto:dynckm@gmail.com)**
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
