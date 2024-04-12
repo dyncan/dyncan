@@ -4,6 +4,6 @@ Hi there, I'm Peter, a passionate Salesforce engineer from China. i take great c
 
 - 📝 I regularly write articles on [website](https://dyncan.com)
 
-- 💬 Ask me about: **Salesforce, JavaScript**
+- 💬 Ask me about: **Salesforce**
 
 - 📫 How to reach me: **Drop me a message here or contact me by [email](mailto:dynckm@gmail.com)**
