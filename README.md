@@ -1,9 +1,17 @@
-Hi there, I'm Peter, a passionate Salesforce engineer from China. i take great care in the experience, architecture, and code quality of the things I build.
+# Hi there, I'm Peter! 👋
 
-- 🌱 I'm currently learning **Golang**
+I'm a passionate Salesforce engineer from China, focused on enhancing the quality and architecture of the software I develop.
 
-- 📝 I regularly write articles on [website](https://dyncan.com)
+## What I'm Up To 🚀
+- **Contributing:** Actively involved in community projects and have contributed to [Salesforce-Inspector-reloaded](https://github.com/tprouvot/Salesforce-Inspector-reloaded). 🛠
+- **Developing:** Launched a Salesforce Chrome extension, [Salesforce Spotlight](https://chromewebstore.google.com/detail/salesforce-spotlight/kcnnhfdenihbihoikgjfapgphapdoggd), to boost user experience and productivity. 💻
+- **Translating:** Completed the Chinese translation of the **[Integration Patterns and Practices](https://dyncan.com/Integration-Patterns-and-Practices-ZH_CN/)** documentation, aiding native speakers. 📖
 
-- 💬 Ask me about: **Salesforce**
+## Writing ✍️
+I regularly write articles about Salesforce and technological innovations on my [website](https://dyncan.com/).
 
-- 📫 How to reach me: **Drop me a message here or contact me by [email](mailto:dynckm@gmail.com)**
+## Talk to Me About 🗨️
+Feel free to ask me anything about Salesforce.
+
+## How to Reach Me 📧
+Drop me a message on GitHub or contact me directly at [email](mailto:dynckm@gmail.com).
