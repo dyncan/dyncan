@@ -6,7 +6,7 @@ I'm a passionate Salesforce engineer from China, focused on enhancing the qualit
 - **Contributing:** Actively involved in community projects and have contributed to [Salesforce-Inspector-reloaded](https://github.com/tprouvot/Salesforce-Inspector-reloaded). 🛠
 - **Developing:** 
   - Launched a Salesforce Chrome extension, [Salesforce Spotlight](https://chromewebstore.google.com/detail/salesforce-spotlight/kcnnhfdenihbihoikgjfapgphapdoggd) to boost user experience and productivity. 💻
-  - Launched a VS Code extension, [SOQL Booster](https://marketplace.visualstudio.com/items?itemName=dyncan.salesforce-soql-booster), designed to enhance Apex development experience with SOQL field autocompletion in Salesforce. This plugin offers intelligent field suggestions, dynamic object recognition, and cache management features, making SOQL query writing faster and more accurate. 🧰
+  - Launched a VS Code extension, [Salesforce SOQL Booster](https://marketplace.visualstudio.com/items?itemName=dyncan.salesforce-soql-booster), This extension offers intelligent field suggestions, dynamic object recognition, and cache management features, making SOQL query writing faster and more accurate. 🧰
 - **Translating:** Completed the Chinese translation of the [Integration Patterns and Practices](https://dyncan.com/Integration-Patterns-and-Practices-ZH_CN/) documentation, aiding native speakers. 📖
 
 #### Writing ✍️
