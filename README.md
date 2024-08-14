@@ -3,7 +3,7 @@
 I'm a passionate Salesforce engineer from China, focused on enhancing the quality and architecture of the software I develop.
 
 #### What I'm Up To 🚀
-- **Contributing:** Actively involved in community projects and have contributed to [Salesforce-Inspector-reloaded](https://github.com/tprouvot/Salesforce-Inspector-reloaded). 🛠
+- **Contributing:** Actively involved in community projects and contributed to [Salesforce-Inspector-reloaded](https://github.com/tprouvot/Salesforce-Inspector-reloaded). 🛠
 - **Developing:** 
   - Launched a Salesforce Chrome extension, [Salesforce Spotlight](https://chromewebstore.google.com/detail/salesforce-spotlight/kcnnhfdenihbihoikgjfapgphapdoggd) to boost user experience and productivity. 💻
   - Launched a VS Code extension, [Salesforce SOQL Booster](https://marketplace.visualstudio.com/items?itemName=dyncan.salesforce-soql-booster), This extension offers intelligent field suggestions, dynamic object recognition, and cache management features, making SOQL query writing faster and more accurate. 🧰
