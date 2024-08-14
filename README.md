@@ -10,7 +10,7 @@ I'm a passionate Salesforce engineer from China, focused on enhancing the qualit
 - **Translating:** Completed the Chinese translation of the [Integration Patterns and Practices](https://dyncan.com/Integration-Patterns-and-Practices-ZH_CN/) documentation, aiding native speakers. 📖
 
 #### Writing ✍️
-I regularly write articles about Salesforce and technological innovations on my [website](https://dyncan.com/).
+I periodically publish articles about Salesforce and technological innovations on my [website](https://dyncan.com/).
 
 #### Talk to Me About 🗨️
 Feel free to ask me anything about Salesforce.
