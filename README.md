@@ -17,3 +17,5 @@ Feel free to ask me anything about Salesforce.
 
 #### How to Reach Me 📧
 Drop me a message on GitHub or contact me directly at [email](mailto:dynckm@gmail.com).
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdyncan&labelColor=%23697689&countColor=%23ff8a65&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdyncan)
